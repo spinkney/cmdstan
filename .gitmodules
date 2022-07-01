@@ -1,3 +1,4 @@
 [submodule "stan"]
 	path = stan
-        url = https://github.com/spinkney/stan/tree/test/cholesky_symmetric
+        url = https://github.com/spinkney/cmdstan.git
+        branch = test/cholesky_symmetric
